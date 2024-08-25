@@ -1,6 +1,6 @@
 # Walmart-Sales-Project
 
-Description: In this project, you will clean a dataset containing Walmart sales data and analyze sales, unemployment rate, CPI, fuel price, and other fields.
+Description: In this project, I cleaned the dataset containing Walmart sales data and analyze sales, unemployment rate, CPI, fuel price, and other fields.
 
 Data download: https://www.kaggle.com/datasets/mikhail1681/walmart-sales 
 
